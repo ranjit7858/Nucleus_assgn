@@ -1,4 +1,4 @@
-Assgn 1 DONE 
-Assgn 2 DONE 
-Assgn 3 DONE 
-CAPSTONE PROJECT WORKING .. 
+- **Assignment 1**: DONE 
+- **Assignment 2**: DONE 
+- **Assignment 3**: DONE 
+- **Capstone Project**: WORKING ..
